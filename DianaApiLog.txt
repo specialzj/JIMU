@@ -1,0 +1,11 @@
+ [Info] [CRobotApiSystem::createRobotApi]create ok:192.168.4.152,initRef:1
+ [Info] [CSessionUDP::initSession] ret： 1 session type: 0 local ip-port: 0.0.0.0-47491,remoteipPort:-0
+ [Info] [CSessionUDP::initSession] ret： 1 session type: 1 local ip-port: 0.0.0.0-34929,remoteipPort:-0
+ [Info] [CSessionUDP::initSession] ret： 1 session type: 2 local ip-port: 0.0.0.0-34787,remoteipPort:-0
+ [Info] [CSessionUDP::initSession] ret： 1 session type: 3 local ip-port: 0.0.0.0-35934,remoteipPort:-0
+ [Info] [CSessionUDP::initSession] ret： 1 session type: 4 local ip-port: 0.0.0.0-46392,remoteipPort:-0
+ [Info] [CThreadProcessorBase::start] start thread processor
+ [Info] [CThreadProcessorBase::start] start thread processor
+ [Warning] -10001:on_run_taskid_service has been declined!
+ [Info] [CRobotApiImp::requestJointCount] joint cout is  7
+ [Info] [CRobotApiSystem::initRobotApi]init default ip:192.168.4.152
